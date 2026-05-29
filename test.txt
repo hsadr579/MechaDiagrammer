@@ -1,0 +1,9 @@
+{
+    "instructions": [
+        [
+            "passive events",
+            "{\"tool_name\":\"passive_event_reporter\",\"event\":\"some one entered the room\",\"instruction\":\"this message comes from an external tool which reports events. you should decide what to do with it weather you want to say something or not(this comes from system not user so answering might not be necessary!)\"}",
+            "tool"
+        ]
+    ]
+}
